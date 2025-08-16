@@ -1,0 +1,3 @@
+Enter IP's which you what to add.
+eg:- 192.168.20.25
+     192.168.100.1
