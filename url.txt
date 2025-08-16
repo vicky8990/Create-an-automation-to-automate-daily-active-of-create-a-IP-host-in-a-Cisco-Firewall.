@@ -1,0 +1,4 @@
+Enter the URL's name which you want to.
+eg:- www.google.com
+     www.yahoo.com
+     www.youtube.com
